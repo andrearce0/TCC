@@ -36,11 +36,11 @@
 *.exe
 *.out
 *.app
+*.o
 
 # debug information files
 *.dwo
 
-instancias
 Makefile
 Readme.md
 settings.json
